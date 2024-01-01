@@ -1,0 +1,12 @@
+:root {
+    --bg: rgba(252, 248, 244, 1);
+    --h6-font-family: "Manrope-Bold", Helvetica;
+    --h6-font-size: 22px;
+    --h6-font-style: normal;
+    --h6-font-weight: 700;
+    --h6-letter-spacing: 0px;
+    --h6-line-height: normal;
+    --txt: rgba(255, 255, 255, 1);
+    --x-2: rgba(236, 116, 74, 1);
+  }
+  
